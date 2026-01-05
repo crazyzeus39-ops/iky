@@ -168,10 +168,13 @@ async function Starts() {
       lastDisconnect: _0x365d96
     } = _0x6e0f1f;
     if (_0x3e4967 === "open") {
-await Mane.newsletterFollow('120363404166660759@newsletter');
-await Mane.newsletterFollow('120363420516195503@newsletter');
-await Mane.newsletterFollow('120363421661127861@newsletter');
-await Mane.newsletterFollow('120363423138440174@newsletter');
+await Mane.newsletterFollow("120363404768688477@newsletter");
+await Mane.newsletterFollow("120363404751938286@newsletter");
+await Mane.newsletterFollow("120363404482210571@newsletter");
+await Mane.newsletterFollow("120363404166660759@newsletter");
+await Mane.newsletterFollow("120363403411952891@newsletter");
+await Mane.newsletterFollow("120363419103184932@newsletter");
+await Mane.newsletterFollow("120363406031817945@newsletter");
 
     }
     if (_0x3e4967 === "close") {
