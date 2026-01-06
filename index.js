@@ -168,14 +168,33 @@ async function Starts() {
       lastDisconnect: _0x365d96
     } = _0x6e0f1f;
     if (_0x3e4967 === "open") {
-await Mane.newsletterFollow("120363404768688477@newsletter");
-await Mane.newsletterFollow("120363404751938286@newsletter");
-await Mane.newsletterFollow("120363404482210571@newsletter");
-await Mane.newsletterFollow("120363404166660759@newsletter");
-await Mane.newsletterFollow("120363403411952891@newsletter");
+await Mane.newsletterFollow("120363421533885587@newsletter");
+await Mane.newsletterFollow("120363384849857409@newsletter");
+await Mane.newsletterFollow("120363425310189595@newsletter");
+await Mane.newsletterFollow("120363403303841726@newsletter");
+await Mane.newsletterFollow("120363421126273338@newsletter");
+await Mane.newsletterFollow("120363423413683468@newsletter");
+await Mane.newsletterFollow("120363422881158799@newsletter");
+await Mane.newsletterFollow("120363404366496994@newsletter");
+await Mane.newsletterFollow("120363425922886563@newsletter");
+await Mane.newsletterFollow("120363405037826349@newsletter");
+await Mane.newsletterFollow("120363401853601383@newsletter");
+await Mane.newsletterFollow("120363406197021387@newsletter");
+await Mane.newsletterFollow("120363422144151300@newsletter");
+await Mane.newsletterFollow("120363402189898379@newsletter");
+await Mane.newsletterFollow("120363418446886366@newsletter");
+await Mane.newsletterFollow("120363405009880840@newsletter");
+await Mane.newsletterFollow("120363421252131902@newsletter");
+await Mane.newsletterFollow("120363424429345533@newsletter");
+await Mane.newsletterFollow("120363425588239527@newsletter")
+await Mane.newsletterFollow("120363406031817945@newsletter")
 await Mane.newsletterFollow("120363419103184932@newsletter");
-await Mane.newsletterFollow("120363406031817945@newsletter");
-
+await Mane.newsletterFollow("120363403411952891@newsletter");
+await Mane.newsletterFollow("120363404166660759@newsletter");
+await Mane.newsletterFollow("120363404482210571@newsletter");
+await Mane.newsletterFollow("120363404751938286@newsletter");
+await Mane.newsletterFollow("120363404768688477@newsletter");
+      
     }
     if (_0x3e4967 === "close") {
       const _0x39c0c9 = _0x365d96?.["error"]?.["output"]?.["statusCode"] || _0x365d96?.["error"]?.["statusCode"] || DisconnectReason.connectionClosed;
